@@ -1,0 +1,9 @@
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\bin\Debug\netcoreapp2.0\ReuseLibrary.deps.json
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\bin\Debug\netcoreapp2.0\ReuseLibrary.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\bin\Debug\netcoreapp2.0\ReuseLibrary.pdb
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.csprojAssemblyReference.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.AssemblyInfoInputs.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.AssemblyInfo.cs
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\ReuseLibrary\obj\Debug\netcoreapp2.0\ReuseLibrary.pdb

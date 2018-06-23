@@ -1,0 +1,17 @@
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\UnitTestProject.deps.json
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\UnitTestProject.runtimeconfig.json
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\UnitTestProject.runtimeconfig.dev.json
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\UnitTestProject.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\UnitTestProject.pdb
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\ReuseLibrary.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\bin\Debug\netcoreapp2.0\ReuseLibrary.pdb
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.AssemblyInfo.cs
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.csproj.CopyComplete
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.dll
+C:\Users\sebastian\source\repos\ClearMeasureAssignment\ReuseLibrarySolution\UnitTestProject\obj\Debug\netcoreapp2.0\UnitTestProject.pdb
