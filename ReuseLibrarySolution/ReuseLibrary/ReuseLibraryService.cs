@@ -23,14 +23,17 @@ namespace ReuseLibrary
 
                 for (int i = 1; i <= maxNumber; i++)
                 {
-                    if (i % 3 == 0 && i % 5 == 0)
+                    if (i % 3 == 0)
                     {
-                        theList.Add("FizzBuzz");
-                    }
+                        if (i % 5 == 0)
+                        {
+                            theList.Add("FizzBuzz");
+                        }
 
-                    else if (i % 3 == 0)
-                    {
-                        theList.Add("Fizz");
+                        else
+                        {
+                            theList.Add("Fizz");
+                        }
                     }
 
                     else if (i % 5 == 0)

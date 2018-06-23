@@ -115,5 +115,24 @@ namespace ReuseLibraryTest
             }
         }
 
+        [TestMethod]
+        public void AssertNumbersNotDivisibleAreDisplayed()
+        {
+
+            List<string> values = _reuseLibraryService.ReuseLibraryMethod(100000);
+
+            foreach (var item in values)
+            {
+                if (item != "FizzBuzz" && item != "Fizz" && item != "Buzz")
+                {
+                    int index = values.IndexOf(item);
+
+                    Assert.IsTrue(index + 1 == int.Parse(item));
+                }
+
+
+            }
+        }
+
     }
 }
